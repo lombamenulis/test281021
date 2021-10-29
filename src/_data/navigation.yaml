@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: Lomba
     url: "#"
-  - text: Menu Two
+  - text: Undian
     url: "#"
-  - text: Menu Three
+  - text: Giveawa
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
