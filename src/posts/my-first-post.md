@@ -1,60 +1,13 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
+title: Lomba Ucapan Selamat Ulang Tahun Oyo Berhadiah Motor
+description: Lomba Ucapan
+author: kookoo
 date: 2020-09-01
 tags:
-  - left
-  - center
-  - right
+  - Tags
 ---
-# This is a Heading h1
+![Lomba ucapan selamat ulang tahun Oyo](/static/img/lomba-ucapan-ultah-oyo-berhadiah-motor.png "Lomba ucapan selamat ulang tahun Oyo")
 
-## This is a Heading h2
+**Giveaway Oyo Ultah Berhadiah Sepeda Motor –** Ada cara mudah banget untuk kamu dapatkan sepeda motor secara mudah dan [gratis](https://lombapad.com/), hanya dengan mengucapkan selamat ulang tahun pada Oyo dan kamu berkesempatan untuk mendapatkan hadiah berupa sepeda motor TVS, pasti kamu semua mau kan??? Simak saja cara lengkapnya di bawah ini yah!
 
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+<https://lombapad.com/lomba-ucapan-ulang-tahun-oyo-berhadiah-motor-tvs/>
